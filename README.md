@@ -42,7 +42,9 @@ O banco de dados é composto por 9 tabelas:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido como atividade acadêmica do curso de Engenharia de Software.
+Desenvolvido por Cauã Pires de Brito Manhães.
+Estudante de Engenharia de Software — Estácio.
+Projeto acadêmico desenvolvido para fins de aprendizado e prática de Banco de Dados.
 
 ## 👨‍🏫 Orientação Acadêmica
 
